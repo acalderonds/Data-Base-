@@ -1,0 +1,16 @@
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Busqueda.resources
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.frm_cargardatos.resources
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\EntityFramework.dll
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\EntityFramework.xml
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CopyComplete
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\calderonal\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
